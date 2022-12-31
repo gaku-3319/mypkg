@@ -1,3 +1,6 @@
+# © 2022 Gakuto Seyama
+# SPDX-License-Identifier: BSD-3-Clause
+
 import rclpy                     #ROS2のクライアントのためのライブラリ
 from rclpy.node import Node 
 from std_msgs.msg import Int16   #通信の型（16ビットの符号付き整数）

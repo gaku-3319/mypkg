@@ -1,3 +1,6 @@
+# © 2022 Gakuto Seyama
+# SPDX-License-Identifier: BSD-3-Clause
+
 import launch
 import launch.actions
 import launch.substitutions
