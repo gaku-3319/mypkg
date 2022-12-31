@@ -1,12 +1,12 @@
-##ディレクトリについて
+## ディレクトリについて  
 ![test](![test](https://github.com/gaku-3319/mypkg/actions/workflows/test.yml/badge.svg)
 * これはROS2のパッケージです。
 
-##必要なソフトウェア
+## 必要なソフトウェア
 
 * Python
 
-##テスト環境
+## テスト環境
 
 * Ubuntu22.04
 
