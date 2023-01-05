@@ -1,6 +1,6 @@
 ## このリポジトリについて 
  
-![test](![test](https://github.com/gaku-3319/mypkg/actions/workflows/test.yml/badge.svg)
+![test](https://github.com/gaku-3319/mypkg/actions/workflows/test.yml/badge.svg)
 * これはROS2のパッケージです。
 
 ## ノードとトピックの関係性について
