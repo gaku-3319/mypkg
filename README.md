@@ -2,6 +2,7 @@
  
 ![test](https://github.com/gaku-3319/mypkg/actions/workflows/test.yml/badge.svg)
 * これはROS2のパッケージです。
+* このパッケージは、launchファイルを使用して、複数のノード（今回ではtalker.pyとlistener.py）を一度に立ち上げるパッケージです。
 
 ## ノードとトピックの関係性について
 * このパッケージではtalkerというノードから/countupというトピックを通じて、listenerというノードでメッセージを受け取っている。
